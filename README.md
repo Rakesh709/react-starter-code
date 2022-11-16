@@ -15,7 +15,7 @@ Install react-starter-code with npm
 ```bash
   git clone <Link of repository>
   cd <file-name>
-  git install or git i 
+  npm install or npm i 
   npm start
 ```
     
